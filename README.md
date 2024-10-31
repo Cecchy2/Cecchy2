@@ -23,6 +23,7 @@ Quando non sono immerso in righe di codice, probabilmente mi trovi su una tavola
 - **React** ⚛️ e **Redux**
 - **Git & GitHub Desktop**
 - **Java** ☕, **Spring Boot** e **Spring JPA (Hibernate)**
+- **Spring Security**
 - **PostgreSQL** 🐘
 - **Lombok** e **Postman**
 - **Netlify**, **Render** e **Koyeb** per il Deploy
