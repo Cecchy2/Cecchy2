@@ -25,6 +25,7 @@ Quando non sono immerso in righe di codice, probabilmente mi trovi su una tavola
 - **Java** ☕, **Spring Boot** e **Spring JPA (Hibernate)**
 - **PostgreSQL** 🐘
 - **Lombok** e **Postman**
+- **Netlify**, **Render** e **Koyeb** per il Deploy
 
 ---
 
