@@ -37,3 +37,5 @@ Dopo tanti anni nel commerciale (dal 2006 al 2019 in tre aziende diverse) ho fin
 🔍 **Cerco sempre nuove sfide e opportunità** per imparare e crescere! Se vuoi fare due chiacchiere su progetti tech o su dove trovare l’onda perfetta, non esitare a contattarmi! 😄🌊
 
 ✨ “La strada giusta è sempre quella che porta alla tua passione.” ✨
+
+Alcuni dei progetti che ho sviluppato 👇
