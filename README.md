@@ -1,42 +1,29 @@
-# Ciao, sono Dario! 👋
+Ciao, sono Dario 👋
+Sono uno sviluppatore e oggi lavoro come Frontend Developer con React Native.
+Negli ultimi anni ho cambiato strada per seguire davvero la tecnologia, e da allora cerco di migliorarmi ogni giorno con studio, pratica e progetti reali.
 
-### 🚀 Cambiare per Passione:
-Da sempre appassionato di tecnologia, ho deciso di **stravolgere la mia vita ad Aprile 2024** per seguire davvero ciò che amo fare. 💥 Ho lasciato il mio vecchio lavoro e mi sono lanciato in una nuova avventura iscrivendomi al Bootcamp di **Epicode**. Da quel momento, ho messo tutto me stesso nello studio e nella pratica per diventare uno **Sviluppatore Full-Stack**!
+🌐 Qui trovi i progetti che ho sviluppato:
+www.dariocecchinato.com
 
----
+Cosa faccio
+Sviluppo interfacce mobile con React Native
+Lavoro anche su progetti web con React, JavaScript, HTML/CSS
+Mi occupo di integrazione API, gestione stato e attenzione all’esperienza utente
+Continuo a costruire progetti personali per crescere in modo concreto
+Stack che uso più spesso
+Frontend: React Native, React, JavaScript, HTML, CSS, Sass, Bootstrap
+Backend: Java, Spring Boot, Spring JPA, Spring Security
+Database: PostgreSQL
+Strumenti: Git, GitHub, Postman, Lombok
+Deploy: Netlify, Render, Koyeb
+Un po’ di me
+Prima di lavorare nello sviluppo ho fatto esperienze in altri settori, soprattutto nel commerciale.
+Questo mi ha lasciato un approccio molto pratico: comunicazione chiara, affidabilità e lavoro di squadra.
 
-### Chi sono 👇
-👨‍💻 **Sviluppatore Junior Full-Stack** | 🌊 **Istruttore Federale di Surf, Wakeboard e Wakesurf**
+Fuori dal codice sono istruttore federale di Surf, Wakeboard e Wakesurf 🌊
 
-🤝 Sono una persona affidabile e mi piace lavorare con gli altri! Dopo anni di esperienza nel settore commerciale, ho deciso di unire le mie competenze relazionali con la mia nuova passione per la tecnologia. Ora il mio obiettivo è costruirmi una reputazione come **esperto nel settore tech**, combinando il meglio dei due mondi.
+Contatti
+Se ti va di fare due chiacchiere su tecnologia o collaborazioni:
 
----
-
-### 🏄 Passioni fuori dal codice:
-Quando non sono immerso in righe di codice, probabilmente mi trovi su una tavola da surf o su un wakeboard! Come istruttore federale, mi piace insegnare e condividere la mia passione per il **Surf**, il **Wakeboard** e il **Wakesurf** 🌊.
-
----
-
-### 🛠️ Le Mie Armi da Programmatore (sempre in aggiornamento 🌟):
-- **HTML, CSS e JavaScript**
-- **Sass & Bootstrap** 🎨
-- **React** ⚛️ e **Redux**
-- **Git & GitHub Desktop**
-- **Java** ☕, **Spring Boot** e **Spring JPA (Hibernate)**
-- **Spring Security**
-- **PostgreSQL** 🐘
-- **Lombok** e **Postman**
-- **Netlify**, **Render** e **Koyeb** per il Deploy
-
----
-
-### 💡 Il mio percorso:
-Dopo tanti anni nel commerciale (dal 2006 al 2019 in tre aziende diverse) ho finalmente realizzato il mio sogno: completare il **Bootcamp Epicode** nel 2024 e diventare uno sviluppatore!
-
----
-
-🔍 **Cerco sempre nuove sfide e opportunità** per imparare e crescere! Se vuoi fare due chiacchiere su progetti tech o su dove trovare l’onda perfetta, non esitare a contattarmi! 😄🌊
-
-✨ “La strada giusta è sempre quella che porta alla tua passione.” ✨
-
-Alcuni dei progetti che ho sviluppato 👇
+Portfolio: www.dariocecchinato.com
+Grazie per essere passato sul mio profilo 🙌
