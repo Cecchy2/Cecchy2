@@ -39,10 +39,13 @@ Negli ultimi anni ho cambiato strada per seguire davvero la tecnologia, e da all
 
 ### Database
 - PostgreSQL
+- MySQL
 
 ### Strumenti
 - Git
 - GitHub
+- Jira
+- Bitbucket
 - Postman
 - Lombok
 
@@ -50,12 +53,14 @@ Negli ultimi anni ho cambiato strada per seguire davvero la tecnologia, e da all
 - Netlify
 - Render
 - Koyeb
+- Nginx
+- Cloudflare
 
 ---
 
 ## 👤 Un po’ di me
 
-Prima di lavorare nello sviluppo ho fatto esperienze in altri settori, soprattutto nel commerciale.  
+Prima di lavorare nello sviluppo sono stato un commerciale.  
 Questo mi ha lasciato un approccio molto pratico: **comunicazione chiara, affidabilità e lavoro di squadra**.
 
 Fuori dal codice sono istruttore federale di **Surf, Wakeboard e Wakesurf** 🌊
