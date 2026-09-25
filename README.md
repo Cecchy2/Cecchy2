@@ -1,6 +1,6 @@
 # Ciao, sono Dario 👋
 
-Sono uno sviluppatore e oggi lavoro come **Frontend Developer** e creo progetto anche come **Full Stack**.  
+Sono uno sviluppatore, oggi lavoro per **Smartwage** come **Frontend Developer** e per **Ristonic** come **Full Stack**.  
 Negli ultimi anni ho cambiato strada per seguire davvero la tecnologia, e da allora cerco di migliorarmi ogni giorno con studio, pratica e progetti reali.
 
 🌐 Qui trovi i progetti che ho sviluppato: **[www.dariocecchinato.com](https://www.dariocecchinato.com)**
