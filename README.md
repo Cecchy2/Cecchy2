@@ -26,12 +26,16 @@ Negli ultimi anni ho cambiato strada per seguire davvero la tecnologia, e da all
 - CSS
 - Sass
 - Bootstrap
+- Tailwind
+- Three.js
 
 ### Backend
 - Java
 - Spring Boot
 - Spring JPA
 - Spring Security
+- Python
+- Fastapi
 
 ### Database
 - PostgreSQL
